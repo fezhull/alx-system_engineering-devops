@@ -1,1 +1,1 @@
-Creating a srcipt current directory.
+Moving a file.
