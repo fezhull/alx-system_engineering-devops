@@ -1,1 +1,1 @@
-script that chnage path
+displaying current directory in long
