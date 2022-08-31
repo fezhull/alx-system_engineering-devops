@@ -1,1 +1,1 @@
-Creating a srcipt current directory contents.
+Creating a srcipt current directory.
