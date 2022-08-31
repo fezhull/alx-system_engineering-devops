@@ -1,1 +1,1 @@
-a script that prints absolute path
+ Displaying the contents list
