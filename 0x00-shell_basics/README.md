@@ -1,1 +1,1 @@
-creating symbolic_link
+creating symbolic
