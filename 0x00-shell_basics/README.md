@@ -1,1 +1,1 @@
-symbolic link directory
+Create script thats creats dir
