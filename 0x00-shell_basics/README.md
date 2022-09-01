@@ -1,1 +1,1 @@
-print list directory
+symbolic link directory
