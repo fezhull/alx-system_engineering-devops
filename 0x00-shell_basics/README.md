@@ -1,1 +1,1 @@
-listing directory
+print list directory
