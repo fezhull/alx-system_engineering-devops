@@ -1,1 +1,1 @@
-The path to success is to take massive, determined action
+Write a script that prints all the groups the current user is part of.
