@@ -1,1 +1,1 @@
-Write a script that displays the third line of the file iacta
+6. Id prefer the first ones actually
