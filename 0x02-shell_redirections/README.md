@@ -1,1 +1,1 @@
-2. Lets display a file
+2. Let display a file
